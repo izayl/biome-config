@@ -1,5 +1,11 @@
 # @izayl/biome-config
 
+## 0.0.3
+
+### Patch Changes
+
+- 6fbcfd8: Fixed Package subpath '.' is not defined by "exports" issue
+
 ## 0.0.2
 
 ### Patch Changes
