@@ -1,7 +1,3 @@
 {
-  "[json]": {
-    "editor.defaultFormatter": "vscode.json-language-features",
-    "editor.insertSpaces": true,
-    "editor.tabSize": 2
-  }
+  "editor.defaultFormatter": "biomejs.biome"
 }

@@ -3,17 +3,11 @@
   "version": "0.1.1",
   "description": "personal biome config",
   "type": "module",
-  "keywords": [
-    "biome",
-    "config",
-    "personal"
-  ],
+  "keywords": ["biome", "config", "personal"],
   "publishConfig": {
     "access": "public"
   },
-  "files": [
-    "src"
-  ],
+  "files": ["src"],
   "exports": {
     ".": "./src/biome.json",
     "./biome": "./src/biome.json"
