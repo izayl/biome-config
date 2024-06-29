@@ -15,6 +15,6 @@ use `extends` in your `biome.json` or `biome.jsonc` file:
 
 ```jsonc
 {
-  "extends": "@izayl/biome-config"
+  "extends": ["@izayl/biome-config"]
 }
 ```

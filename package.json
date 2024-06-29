@@ -3,24 +3,28 @@
   "version": "0.1.1",
   "description": "personal biome config",
   "type": "module",
-  "keywords": ["biome", "config", "personal"],
+  "keywords": [
+    "biome",
+    "config",
+    "personal"
+  ],
   "publishConfig": {
     "access": "public"
   },
-  "files": ["src"],
+  "files": [
+    "src"
+  ],
   "exports": {
     ".": "./src/biome.json",
     "./biome": "./src/biome.json"
   },
   "scripts": {
     "ci:publish": "changeset publish",
-    "ci:version": "changeset version",
-    "lint": "biome check ./src --write"
+    "ci:version": "changeset version"
   },
   "author": "izayl <izayl@163.com> (https://github.com/izayl)",
   "license": "MIT",
   "devDependencies": {
-    "@biomejs/biome": "1.8.3",
     "@changesets/cli": "^2.27.6"
   }
 }

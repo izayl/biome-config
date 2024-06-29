@@ -4,7 +4,13 @@
     "enabled": true
   },
   "files": {
-    "ignore": ["dist", "out"]
+    "ignore": [
+      "dist",
+      "out"
+    ]
   },
-  "extends": ["./formatter.json", "./linter.json"]
+  "extends": [
+    "./formatter.json",
+    "./linter.json"
+  ]
 }
