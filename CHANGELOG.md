@@ -1,5 +1,11 @@
 # @izayl/biome-config
 
+## 0.1.1
+
+### Patch Changes
+
+- a7869f1: fix npm files
+
 ## 0.1.0
 
 ### Minor Changes
