@@ -1,5 +1,11 @@
 # @izayl/biome-config
 
+## 0.1.2
+
+### Patch Changes
+
+- 7715a21: Removed local biome
+
 ## 0.1.1
 
 ### Patch Changes
