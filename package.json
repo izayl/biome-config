@@ -12,9 +12,7 @@
     "access": "public"
   },
   "files": [
-    "biome.json",
-    "formatter.json",
-    "linter.json"
+    "src"
   ],
   "exports": {
     ".": "./src/biome.json",
