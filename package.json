@@ -1,19 +1,27 @@
 {
   "name": "@izayl/biome-config",
   "version": "0.0.2",
-  "description": "",
+  "description": "personal biome config",
   "type": "module",
+  "keywords": [
+    "biome",
+    "config",
+    "personal"
+  ],
   "publishConfig": {
     "access": "public"
   },
+  "files": [
+    "src"
+  ],
   "exports": {
+    ".": "./src/biome.json",
     "./biome": "./src/biome.json"
   },
   "scripts": {
     "ci:publish": "changeset publish",
     "ci:version": "changeset version"
   },
-  "keywords": [],
   "author": "izayl <izayl@163.com> (https://github.com/izayl)",
   "license": "MIT",
   "devDependencies": {
