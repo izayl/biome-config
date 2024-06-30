@@ -4,7 +4,7 @@
     "enabled": true
   },
   "files": {
-    "ignore": ["dist", "out"]
+    "ignore": ["dist", "out", "tsconfig.*.json"]
   },
   // formatter settings
   "formatter": {
