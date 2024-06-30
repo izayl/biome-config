@@ -1,5 +1,11 @@
 # @izayl/biome-config
 
+## 0.1.4
+
+### Patch Changes
+
+- 8d13dd4: Added tsconfig.\*.json file ignore
+
 ## 0.1.3
 
 ### Patch Changes
