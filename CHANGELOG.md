@@ -1,5 +1,11 @@
 # @izayl/biome-config
 
+## 0.1.3
+
+### Patch Changes
+
+- 58389b6: Fixed extends cannot recognized by nest config extends
+
 ## 0.1.2
 
 ### Patch Changes
